@@ -1,10 +1,8 @@
 # Pipeline-for-scRNA-seq-and-Spatial-Transcriptomics-in-R
+* This pipeline was developed during the “Gaúcha School of Bioinformatics” in July 2025. 
+* All credits for Carolina Saibro-Girardi 
 
-Single-Cell and Spatial Transcriptomics Analysis Pipeline
-This pipeline was developed during the “Gaúcha School of Bioinformatics” in July 2025. 
-
-All credits for Carolina Saibro-Girardi 
-
+# Single-Cell and Spatial Transcriptomics Analysis Pipeline
 1. Overview
 
 This repository provides a comprehensive R-based pipeline for the analysis of single-cell RNA sequencing (scRNA-seq) and spatial transcriptomics data. The workflow starts from raw data processing and guides the user through quality control, normalization, clustering, differential expression analysis, and cell type annotation.
